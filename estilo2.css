@@ -1,0 +1,25 @@
+a {
+	color: white;
+}
+
+#back {
+	background: #222831;
+}
+
+#cab {
+	text-align: center;
+	font-family: Tahoma, Verdana, sans-serif;
+	font-size: 30px;
+	color: white;
+	width: 20%;
+  	border: 15px outset;
+  	border-color: #393E46 #00ADB5;
+  	padding: 20px;
+  	margin: auto;
+}
+
+#cnt {
+	font-family: Tahoma, Verdana, sans-serif;
+	font-size: 20px;
+	margin: 50px;
+}
